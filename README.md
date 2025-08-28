@@ -32,9 +32,10 @@ atuando em todo o ciclo de desenvolvimento para garantir **entregas estáveis, s
 
 ##  Atualmente estou:
 
-Estudando para fazer a CTFL  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPCavalcante&layout=compact&theme=radical)  
+👨‍🏫 Estudando para fazer a CTFL    
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MPCavalcante&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPCavalcante&layout=compact&theme=radical)  
+
 
 ## 🚀 Meu portfolio:
 
